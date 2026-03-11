@@ -1,0 +1,3 @@
+Forecasting MKT Integration
+
+This project aims to forecast marketing campaign performance based on historical Meta Ads data, supporting business decisions related to budget allocation, efficiency analysis, and expected results projection. The model was built around a real paid media problem, using time-based feature engineering, feature selection, hyperparameter tuning with Optuna, and LightGBM with a Poisson objective to predict conversion events. In addition to forecasting, the project also transforms predictions into actionable business metrics, such as expected efficiency per amount invested, allowing campaign comparison and supporting budget optimization decisions.
